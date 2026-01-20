@@ -1,17 +1,22 @@
 package main
 
-// import (
-// 	"fmt"
-// )
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("hello world")
+}
 
 
 //declaring array
-var balance [10]float32
+// var balance [10]float32
 
-// initializing array at declaration
-var balance =[5]float32[12.2, 23.34 , 45.34, 65.23, 10.20 ]
+// // initializing array at declaration
+// var balance =[5]float32[12.2, 23.34 , 45.34, 65.23, 10.20 ]
 
 
-//initialize while omitting the size of the array elements
+// //initialize while omitting the size of the array elements
 
-var balance =[]float32[12.2, 23.34 , 45.34, 65.23, 10.20 ]
+// var balance =[]float32[12.2, 23.34 , 45.34, 65.23, 10.20 ]
